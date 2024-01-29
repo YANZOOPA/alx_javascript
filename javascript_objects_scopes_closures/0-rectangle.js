@@ -2,6 +2,7 @@ class Rectangle {
     // Empty class definition
   }
   
-  // Usage example:
+  // Example of creating an instance of the Rectangle class
   const myRectangle = new Rectangle();
-  console.log(myRectangle);
+  console.log(myRectangle); // Output: Rectangle {}
+  
