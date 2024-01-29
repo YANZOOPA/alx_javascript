@@ -1,6 +1,3 @@
-function add(a, b) {
+module.exports.add = function(a, b) {
   return a + b;
-}
-
-const result = add(a, b);
-console.log(result);
+};
