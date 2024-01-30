@@ -1,5 +1,4 @@
-class Rectangle {
-  // Empty class
-}
+new Rectangle();
+class Rectangle { }
 
   
