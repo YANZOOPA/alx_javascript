@@ -1,3 +1,6 @@
 class Rectangle {
-    // This is an empty class definition
+    constructor() {
+      // Empty constructor
+    }
   }
+  
