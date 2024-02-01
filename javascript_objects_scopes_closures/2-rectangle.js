@@ -14,6 +14,3 @@ class Rectangle {
     }
   }
   
-  const r1 = new Rectangle(3, 3);
-  console.log(r1); // Output: Rectangle { width: 3, height: 3 }
-  console.log(r1.width, r1.height); // Output: 3 3  
