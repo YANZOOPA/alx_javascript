@@ -1,4 +1,3 @@
-new Rectangle();
-class Rectangle { }
-
-  
+class Rectangle {
+    // This is an empty class definition
+  }
